@@ -3,7 +3,8 @@
 
 This is my first and most complicated project. Using a random sequence of demostrating and testing, users can memorize the city names just like the vocabulary apps like Momo or Baicizhan.
 
-**可下载 HappyMemoScreenRecord.mp4 屏幕录制**
+**[可下载 HappyMemoScreenRecord.mp4 屏幕录制](https://github.com/TankKevin/HappyMemo/blob/master/HappyMemoScreenRecord.mp4)**
+
 **HappyMemoScreenRecord.mp4 is available**
 
 <div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/HappyMemo/master/IMG_0321.jpg"/></div>
