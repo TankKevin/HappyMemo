@@ -1,5 +1,6 @@
 # 乐记 HappyMemo
 是我个人的第一个也是最复杂的 iPhone 项目。用随机算法实现了高效记忆中国城市名称的功能。为地理爱好者打造。
+
 This is my first and most complicated project. Using a random sequence of demostrating and testing, users can memorize the city names just like the vocabulary apps like Momo or Baicizhan.
 
 **I highly recommend you watch the screen record video to understand what I am talking about...**
